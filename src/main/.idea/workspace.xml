@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="59d3c9ab-1c50-4a7f-b702-1bfc82876b19" name="Default Changelist" comment="" />
+    <list default="true" id="59d3c9ab-1c50-4a7f-b702-1bfc82876b19" name="Default Changelist" comment="add observe_model">
+      <change afterPath="$PROJECT_DIR$/desgin_model/src/main/java/adapter_model/Iphone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desgin_model/src/main/java/adapter_model/Object_adapter/AndroidCharger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desgin_model/src/main/java/adapter_model/Object_adapter/IphoneAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desgin_model/src/main/java/adapter_model/TestAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desgin_model/src/main/java/adapter_model/class_adapter/AndroidClassCharge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desgin_model/src/main/java/adapter_model/class_adapter/IphoneClassAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desgin_model/src/main/java/adapter_model/interface_adapter/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desgin_model/src/main/java/adapter_model/interface_adapter/PhoneAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desgin_model/src/main/java/adapter_model/interface_adapter/PhoneAdapterImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desgin_model/desgin_model.iml" beforeDir="false" afterPath="$PROJECT_DIR$/desgin_model/desgin_model.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desgin_model/src/main/java/singleton_model/LazySingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/desgin_model/src/main/java/singleton_model/LazySingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desgin_model/target/classes/factory_model/abstract_factory/FoodFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/desgin_model/target/classes/factory_model/abstract_factory/FoodFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desgin_model/target/classes/singleton_model/LazySingleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/desgin_model/target/classes/singleton_model/LazySingleton.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/desgin_model/target/" />
+    <ignored path="$PROJECT_DIR$/redis/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,59 +32,110 @@
     <session id="-1686319970">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="32" />
+          <entry key="class" value="5" />
+          <entry key="java" value="116" />
+          <entry key="properties" value="1" />
+          <entry key="tld" value="1" />
+          <entry key="xml" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="32" />
+          <entry key="CLASS" value="5" />
+          <entry key="JAVA" value="116" />
+          <entry key="Properties" value="1" />
+          <entry key="XML" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="11" />
-          <entry key="java" value="1551" />
+          <entry key="dummy" value="28" />
+          <entry key="java" value="4956" />
+          <entry key="txt" value="60" />
+          <entry key="xml" value="42" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1551" />
-          <entry key="PLAIN_TEXT" value="11" />
+          <entry key="JAVA" value="4956" />
+          <entry key="PLAIN_TEXT" value="88" />
+          <entry key="XML" value="42" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/desgin_model/src/main/java/adapter_model/interface_adapter/Phone.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/desgin_model/src/main/java/adapter_model/interface_adapter/PhoneAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="277">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/desgin_model/src/main/java/adapter_model/interface_adapter/PhoneAdapterImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+              <folding>
+                <element signature="e#136#137#0" expanded="true" />
+                <element signature="e#172#173#0" expanded="true" />
+                <element signature="e#279#280#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/desgin_model/src/main/java/adapter_model/TestAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="759">
+              <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Tag Library Descriptor" />
         <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/desgin_model/src/main/java/singleton_model/HungrySingleton.java" />
-        <option value="$PROJECT_DIR$/desgin_model/src/main/java/singleton_model/LazySignleton.java" />
-        <option value="$PROJECT_DIR$/desgin_model/src/main/java/singleton_model/LazySingleton.java" />
-        <option value="$PROJECT_DIR$/desgin_model/src/main/java/factory_model/simple_factory/Fruit.java" />
-        <option value="$PROJECT_DIR$/desgin_model/src/main/java/factory_model/simple_factory/Apper.java" />
-        <option value="$PROJECT_DIR$/desgin_model/src/main/java/factory_model/simple_factory/Apple.java" />
-        <option value="$PROJECT_DIR$/desgin_model/src/main/java/factory_model/simple_factory/Banana.java" />
-        <option value="$PROJECT_DIR$/desgin_model/src/main/java/factory_model/simple_factory/SimpleFactory.java" />
-        <option value="$PROJECT_DIR$/desgin_model/src/main/java/factory_model/fatory_method/Fruit.java" />
         <option value="$PROJECT_DIR$/desgin_model/src/main/java/factory_model/fatory_method/FruitFactory.java" />
         <option value="$PROJECT_DIR$/desgin_model/src/main/java/factory_model/fatory_method/AppleFactory.java" />
         <option value="$PROJECT_DIR$/desgin_model/src/main/java/factory_model/fatory_method/BananaFactory.java" />
@@ -77,6 +147,46 @@
         <option value="$PROJECT_DIR$/desgin_model/src/main/java/factory_model/abstract_factory/Noodles.java" />
         <option value="$PROJECT_DIR$/desgin_model/src/main/java/factory_model/abstract_factory/AbstractFoodFactory.java" />
         <option value="$PROJECT_DIR$/desgin_model/src/main/java/factory_model/abstract_factory/FoodFactory.java" />
+        <option value="$PROJECT_DIR$/desgin_model/src/main/java/agent_model/static_agent/BuyCar.java" />
+        <option value="$PROJECT_DIR$/desgin_model/src/main/java/agent_model/static_agent/BuyCarImpl.java" />
+        <option value="$PROJECT_DIR$/desgin_model/src/main/java/decorator_model/BuyCar.java" />
+        <option value="$PROJECT_DIR$/desgin_model/src/main/java/decorator_model/BuyCarImpl.java" />
+        <option value="$PROJECT_DIR$/desgin_model/src/main/java/agent_model/static_agent/TestProxy.java" />
+        <option value="$PROJECT_DIR$/desgin_model/src/main/java/decorator_model/TestDecorator.java" />
+        <option value="$PROJECT_DIR$/desgin_model/src/main/java/decorator_model/Decorator.java" />
+        <option value="$PROJECT_DIR$/desgin_model/src/main/java/agent_model/static_agent/BuyCarProxy.java" />
+        <option value="$PROJECT_DIR$/desgin_model/pom.xml" />
+        <option value="$PROJECT_DIR$/desgin_model/src/main/java/agent_model/dynamic_agnet/DynamicProxy.java" />
+        <option value="$PROJECT_DIR$/desgin_model/src/main/java/agent_model/cglib_agent/CglibProxy.java" />
+        <option value="$PROJECT_DIR$/desgin_model/src/main/java/observer_model/Observer.java" />
+        <option value="$PROJECT_DIR$/desgin_model/src/main/java/observer_model/MusicObserver.java" />
+        <option value="$PROJECT_DIR$/desgin_model/src/main/java/observer_model/Subject.java" />
+        <option value="$PROJECT_DIR$/desgin_model/src/main/java/observer_model/MusicSubject.java" />
+        <option value="$PROJECT_DIR$/desgin_model/src/main/java/observer_model/TestObserver.java" />
+        <option value="$PROJECT_DIR$/desgin_model/src/main/java/observer_model/javaObservable/JavaObserver.java" />
+        <option value="$PROJECT_DIR$/desgin_model/src/main/java/observer_model/javaObservable/JavaSubject.java" />
+        <option value="$PROJECT_DIR$/desgin_model/src/main/java/singleton_model/LazySingleton.java" />
+        <option value="$PROJECT_DIR$/redis/pom.xml" />
+        <option value="$PROJECT_DIR$/redis/src/main/java/com/yqc/redis/RedisUtil.java" />
+        <option value="$PROJECT_DIR$/redis/src/main/resources/spring.xml" />
+        <option value="$PROJECT_DIR$/desgin_model/src/main/java/adapter_model/TastAdapter.java" />
+        <option value="$PROJECT_DIR$/desgin_model/src/main/java/adapter_model/class_adapter/SkilledWorker.java" />
+        <option value="$PROJECT_DIR$/desgin_model/src/main/java/adapter_model/class_adapter/chinese.java" />
+        <option value="$PROJECT_DIR$/desgin_model/src/main/java/adapter_model/class_adapter/Chinese.java" />
+        <option value="$PROJECT_DIR$/desgin_model/src/main/java/adapter_model/class_adapter/JobNeedSkill.java" />
+        <option value="$PROJECT_DIR$/desgin_model/src/main/java/adapter_model/class_adapter/Iphone.java" />
+        <option value="$PROJECT_DIR$/desgin_model/src/main/java/adapter_model/class_adapter/AndroidCharger.java" />
+        <option value="$PROJECT_DIR$/desgin_model/src/main/java/adapter_model/class_adapter/IphoneAdapter.java" />
+        <option value="$PROJECT_DIR$/desgin_model/src/main/java/adapter_model/Object_adapter/AndroidCharger.java" />
+        <option value="$PROJECT_DIR$/desgin_model/src/main/java/adapter_model/Iphone.java" />
+        <option value="$PROJECT_DIR$/desgin_model/src/main/java/adapter_model/Object_adapter/IphoneAdapter.java" />
+        <option value="$PROJECT_DIR$/desgin_model/src/main/java/adapter_model/class_adapter/AndroidClassCharge.java" />
+        <option value="$PROJECT_DIR$/desgin_model/src/main/java/adapter_model/class_adapter/IphoneClassAdapter.java" />
+        <option value="$PROJECT_DIR$/desgin_model/src/main/java/adapter_model/interface_adapter/phone.java" />
+        <option value="$PROJECT_DIR$/desgin_model/src/main/java/adapter_model/interface_adapter/Phone.java" />
+        <option value="$PROJECT_DIR$/desgin_model/src/main/java/adapter_model/interface_adapter/PhoneAdapter.java" />
+        <option value="$PROJECT_DIR$/desgin_model/src/main/java/adapter_model/interface_adapter/PhoneAdapterImpl.java" />
+        <option value="$PROJECT_DIR$/desgin_model/src/main/java/adapter_model/TestAdapter.java" />
       </list>
     </option>
   </component>
@@ -99,11 +209,16 @@
     <option name="width" value="1479" />
     <option name="height" value="1032" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -111,27 +226,58 @@
               <item name="main" type="b2602c69:ProjectViewProjectNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="desgin_model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="desgin_model" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="desgin_model" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="main" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="desgin_model" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557824527698" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/desgin_model" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558063666957" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.37155962" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="adapter_model" />
+      <recent name="decorator_model" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\learn\src\main\desgin_model\src\main\java\adapter_model\Object_adapter" />
+      <recent name="D:\learn\src\main\redis\src\main\resources" />
       <recent name="D:\learn\src\main\desgin_model\src\main\java\factory_model\abstract_factory" />
       <recent name="D:\learn\src\main\desgin_model\src\main\java\factory_model\fatory_method" />
     </key>
@@ -148,13 +294,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FoodFactory">
-    <configuration name="FoodFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="factory_model.abstract_factory.FoodFactory" />
+  <component name="RunManager">
+    <configuration name="TestAdapter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="adapter_model.TestAdapter" />
       <module name="desgin_model" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="factory_model.abstract_factory.*" />
+          <option name="PATTERN" value="adapter_model.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,42 +308,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="factory_model.simple_factory.SimpleFactory" />
-      <module name="desgin_model" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="factory_model.simple_factory.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestFactoryMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="factory_model.factory_method.TestFactoryMethod" />
-      <module name="desgin_model" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="factory_model.factory_method.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Application.SimpleFactory" />
-      <item itemvalue="Application.TestFactoryMethod" />
-      <item itemvalue="Application.FoodFactory" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FoodFactory" />
-        <item itemvalue="Application.TestFactoryMethod" />
-        <item itemvalue="Application.SimpleFactory" />
+        <item itemvalue="Application.TestAdapter" />
       </list>
     </recent_temporary>
   </component>
@@ -212,35 +325,53 @@
       <option name="presentableId" value="Default" />
       <updated>1557818490905</updated>
       <workItem from="1557818492808" duration="33000" />
-      <workItem from="1557818776233" duration="5548000" />
+      <workItem from="1557818776233" duration="19426000" />
+      <workItem from="1557968800621" duration="10026000" />
+      <workItem from="1558058401459" duration="5299000" />
     </task>
+    <task id="LOCAL-00001" summary="add agent_model and decorator_model">
+      <created>1557913331897</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1557913331897</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add observe_model">
+      <created>1557974071102</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1557974071102</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5581000" />
+    <option name="totallyTimeSpent" value="34784000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3341424" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2605178" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.3285968" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23445825" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="0" />
+      <window_info anchor="bottom" id="Messages" order="1" weight="0.32740214" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Find" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" visible="true" weight="0.33629894" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.3558719" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -249,7 +380,7 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Mybatis datasource" order="6" side_tool="true" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="SciView" order="8" />
+      <window_info anchor="right" id="SciView" order="8" weight="0.32928804" />
       <window_info anchor="right" id="Database" order="9" />
       <window_info anchor="right" id="Maven Projects" order="10" />
     </layout>
@@ -260,64 +391,115 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add agent_model and decorator_model" />
+    <MESSAGE value="add observe_model" />
+    <option name="LAST_COMMIT_MESSAGE" value="add observe_model" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/java/src.zip!/java/util/Observable.java</url>
+          <line>158</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://D:/java/src.zip!/java/util/Observable.java</url>
+          <line>138</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/desgin_model/src/main/java/factory_model/abstract_factory.java">
+    <entry file="file://$PROJECT_DIR$/desgin_model/src/main/java/observer_model/MusicObserver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="38" lean-forward="true" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+          <folding>
+            <element signature="e#165#166#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desgin_model/src/main/java/observer_model/MusicSubject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="32" column="42" lean-forward="true" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#375#376#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+            <element signature="e#773#774#0" expanded="true" />
+            <element signature="e#811#812#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/javafx-src.zip!/javafx/beans/Observable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="93" column="4" selection-start-line="93" selection-start-column="4" selection-end-line="93" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/javafx-src.zip!/javafx/beans/InvalidationListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="42" column="23" lean-forward="true" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/src.zip!/java/util/Observable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="172" column="13" selection-start-line="172" selection-start-column="4" selection-end-line="172" selection-end-column="13" />
+          <folding>
+            <element signature="e#3747#3748#0" expanded="true" />
+            <element signature="e#3784#3785#0" expanded="true" />
+            <element signature="e#5937#5938#0" expanded="true" />
+            <element signature="e#5967#5968#0" expanded="true" />
+            <element signature="e#6978#6979#0" expanded="true" />
+            <element signature="e#7008#7009#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/src.zip!/java/util/Observer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="45" column="9" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desgin_model/src/main/java/observer_model/Observer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
-          <caret line="2" column="29" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desgin_model/src/main/java/factory_model/a.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desgin_model/src/main/java/singleton_model/a.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desgin_model/src/main/java/singleton_model/HungrySingleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/desgin_model/src/main/java/singleton_model/LazySingleton.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="55" lean-forward="true" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
+        <state relative-caret-position="414">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/desgin_model/src/main/java/factory_model/simple_factory/Apper.java">
+    <entry file="file://$PROJECT_DIR$/desgin_model/src/main/java/singleton_model/HungrySingleton.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="236">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/desgin_model/src/main/java/factory_model/simple_factory/Fruit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desgin_model/src/main/java/factory_model/simple_factory/Apple.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="45" />
-          <folding>
-            <element signature="e#109#110#0" expanded="true" />
-            <element signature="e#137#138#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="46">
+          <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -325,33 +507,55 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
-          <folding>
-            <element signature="e#103#104#0" expanded="true" />
-            <element signature="e#155#156#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desgin_model/src/main/java/factory_model/simple_factory/Apple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/desgin_model/src/main/java/factory_model/simple_factory/SimpleFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
+        <state relative-caret-position="-23">
+          <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/desgin_model/src/main/java/factory_model/factory_method/Apple.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desgin_model/src/main/java/factory_model/factory_method/Banana.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desgin_model/src/main/java/factory_model/factory_method/Fruit.java">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/desgin_model/src/main/java/factory_model/factory_method/FruitFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/desgin_model/src/main/java/factory_model/factory_method/BananaFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
           <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desgin_model/src/main/java/factory_model/factory_method/Banana.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desgin_model/src/main/java/factory_model/factory_method/Apple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desgin_model/src/main/java/factory_model/factory_method/TestFactoryMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="49" lean-forward="true" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
         </state>
       </provider>
     </entry>
@@ -362,77 +566,245 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/desgin_model/src/main/java/factory_model/factory_method/FruitFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desgin_model/src/main/java/factory_model/factory_method/TestFactoryMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desgin_model/src/main/java/factory_model/abstract_factory/Banana.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desgin_model/src/main/java/factory_model/abstract_factory/Fruit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desgin_model/src/main/java/factory_model/abstract_factory/Apple.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" selection-start-line="4" selection-end-line="6" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desgin_model/src/main/java/factory_model/abstract_factory/Rice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" selection-start-line="4" selection-end-line="6" selection-end-column="5" />
-          <folding>
-            <element signature="e#111#112#0" expanded="true" />
-            <element signature="e#163#164#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desgin_model/src/main/java/factory_model/abstract_factory/Noodles.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#114#115#0" expanded="true" />
-            <element signature="e#165#166#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/desgin_model/src/main/java/factory_model/abstract_factory/AbstractFoodFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
-          <caret line="4" column="32" lean-forward="true" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desgin_model/src/main/java/factory_model/abstract_factory/StapleFood.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="29" lean-forward="true" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+          <caret line="4" column="52" lean-forward="true" selection-start-line="4" selection-start-column="52" selection-end-line="4" selection-end-column="52" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/desgin_model/src/main/java/factory_model/abstract_factory/FoodFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-69">
+        <state relative-caret-position="-598">
           <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desgin_model/src/main/java/decorator_model/BuyCar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desgin_model/src/main/java/decorator_model/Decorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desgin_model/src/main/java/decorator_model/TestDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desgin_model/src/main/java/decorator_model/BuyCarImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desgin_model/src/main/java/observer_model/javaObservable/JavaSubject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desgin_model/src/main/java/observer_model/Subject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desgin_model/src/main/java/observer_model/javaObservable/JavaObserver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis/src/main/resources/springconfig.xml" />
+    <entry file="file://$PROJECT_DIR$/desgin_model/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis/src/main/java/com/yqc/redis/springConfig.java" />
+    <entry file="file://$PROJECT_DIR$/redis/src/main/resources/spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="70" lean-forward="true" selection-start-line="4" selection-start-column="70" selection-end-line="4" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis/src/main/resources/redis.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desgin_model/src/main/java/observer_model/TestObserver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis/src/main/java/com/yqc/redis/RedisUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desgin_model/src/main/java/adapter_model/class_adapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desgin_model/src/main/java/adapter_model/class_adapter/JobNeedSkill.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desgin_model/src/main/java/adapter_model/class_adapter/Iphone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <folding>
+            <element signature="e#97#98#0" expanded="true" />
+            <element signature="e#144#145#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desgin_model/src/main/java/adapter_model/class_adapter/IphoneAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+          <folding>
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desgin_model/src/main/java/adapter_model/class_adapter/AndroidCharger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="e#98#99#0" expanded="true" />
+            <element signature="e#119#120#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desgin_model/src/main/java/adapter_model/Object_adapter/Iphone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="33" lean-forward="true" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+          <folding>
+            <element signature="e#143#144#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desgin_model/src/main/java/adapter_model/Object_adapter/IphoneAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="18" />
+          <folding>
+            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desgin_model/src/main/java/adapter_model/Iphone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desgin_model/src/main/java/adapter_model/Object_adapter/AndroidCharger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desgin_model/src/main/java/adapter_model/class_adapter/AndroidClassCharge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desgin_model/src/main/java/adapter_model/class_adapter/IphoneClassAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+          <folding>
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desgin_model/src/main/java/adapter_model/interface_adapter/Phone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desgin_model/src/main/java/adapter_model/interface_adapter/PhoneAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desgin_model/src/main/java/adapter_model/interface_adapter/PhoneAdapterImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+          <folding>
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desgin_model/src/main/java/adapter_model/TestAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="759">
+          <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -453,7 +825,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
+          <last-edited>Spring</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -514,6 +886,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: org.springframework:spring-core:5.0.9.RELEASE</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

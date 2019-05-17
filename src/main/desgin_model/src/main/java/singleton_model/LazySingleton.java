@@ -7,17 +7,17 @@ package singleton_model;
  */
 public class LazySingleton {
 
-    private static LazySingleton lazySignleton = null;
+    private static LazySingleton lazySingleton = null;
 
     private LazySingleton(){
 
     }
 
     public static LazySingleton getLazySingleton(){
-        if (lazySignleton == null){
-            lazySignleton = new LazySingleton();
+        if (lazySingleton == null){
+            lazySingleton = new LazySingleton();
         }
-        return lazySignleton;
+        return lazySingleton;
     }
 
 }
